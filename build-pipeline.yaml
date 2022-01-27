@@ -16,7 +16,7 @@ spec:
   type: image
   params:
   - name: url
-    value: quay.io/mavazque/tekton-reversewords
+    value: quay.io/lmartinh/tekton-reversewords
 ---
 apiVersion: tekton.dev/v1alpha1
 kind: Pipeline
